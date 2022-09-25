@@ -5,6 +5,5 @@ This was the final project for Embedded Systems course taught by Prof. Mostafa I
 
 ### Test: 
 
-
-Uploading Test.mp4…
+https://user-images.githubusercontent.com/110190736/192154437-d659ef20-5d4f-4815-a5e0-737bc824b1dd.mp4
 
